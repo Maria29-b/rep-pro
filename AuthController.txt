@@ -17,3 +17,17 @@ const valide =(){
     dcdcdcdcdc
     cdcdcdcd
 }
+
+
+//register
+
+const register = () = {
+    dfsgjlsdgsdl
+    dsljfgdsbgfgs
+    fdskjbfdsk
+    *fhdskfbdskbf
+    fdkshbfs
+    qdombfmosduf
+    sdùpfksjùfpsif
+}
+
