@@ -9,3 +9,28 @@ const login = () = {
     *fhdskfbdskbf
     fdkshbfs
 }
+
+}
+
+
+
+const valide =(){
+    njndjckdncdc
+    dcdcdcdcdc
+    cdcdcdcd
+}
+
+
+//register
+
+const register = () = {
+    dfsgjlsdgsdl
+    dsljfgdsbgfgs
+    fdskjbfdsk
+    *fhdskfbdskbf
+    fdkshbfs
+    qdombfmosduf
+    sdùpfksjùfpsif
+}
+
+
