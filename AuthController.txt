@@ -10,6 +10,8 @@ const login = () = {
     fdkshbfs
 }
 
+}
+
 
 
 const valide =(){
@@ -30,4 +32,5 @@ const register = () = {
     qdombfmosduf
     sdùpfksjùfpsif
 }
+
 
