@@ -8,6 +8,15 @@ const login = () = {
     fdskjbfdsk
     *fhdskfbdskbf
     fdkshbfs
+}
+
+
+
+const valide =(){
+    njndjckdncdc
+    dcdcdcdcdc
+    cdcdcdcd
+}
 
 
 //register
