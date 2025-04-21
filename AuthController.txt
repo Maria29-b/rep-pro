@@ -8,7 +8,7 @@ const login = () = {
     fdskjbfdsk
     *fhdskfbdskbf
     fdkshbfs
-}
+
 
 //register
 
