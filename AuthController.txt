@@ -1,0 +1,24 @@
+
+
+//login
+
+const login = () = {
+    dfsgjlsdgsdl
+    dsljfgdsbgfgs
+    fdskjbfdsk
+    *fhdskfbdskbf
+    fdkshbfs
+}
+
+//register
+
+const register = () = {
+    dfsgjlsdgsdl
+    dsljfgdsbgfgs
+    fdskjbfdsk
+    *fhdskfbdskbf
+    fdkshbfs
+    qdombfmosduf
+    sdùpfksjùfpsif
+}
+
