@@ -1,0 +1,19 @@
+
+
+//login
+
+const login = () = {
+    dfsgjlsdgsdl
+    dsljfgdsbgfgs
+    fdskjbfdsk
+    *fhdskfbdskbf
+    fdkshbfs
+}
+
+
+
+const valide =(){
+    njndjckdncdc
+    dcdcdcdcdc
+    cdcdcdcd
+}
